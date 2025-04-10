@@ -44,3 +44,8 @@ Description
 Overall Limitation:
      filename should be there and Process time should be a natural number, process name should not more than 10 characters.
 ```
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-Process-scheduling-simulator/count.svg" />
+</p>
